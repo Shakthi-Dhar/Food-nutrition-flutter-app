@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "374883024945",
+    "firebase_url": "https://food-nutritionist-d1d34.firebaseio.com",
+    "project_id": "food-nutritionist-d1d34",
+    "storage_bucket": "food-nutritionist-d1d34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374883024945:android:86d115ef43acfb4aa65510",
+        "android_client_info": {
+          "package_name": "com.example.food_nutritions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374883024945-v2640dkegap65u0a03iqlliusl827ht5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx_nV8OTAmYws-DHBdbfoVWiglZO2dad4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374883024945-v2640dkegap65u0a03iqlliusl827ht5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
